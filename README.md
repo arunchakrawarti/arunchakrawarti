@@ -3,153 +3,128 @@
 <h3 align="center">🚀 Frontend Developer | React.js & Next.js</h3>
 
 <p align="center">
-Passionate Frontend Developer with experience in building responsive, scalable, and user-friendly web applications using React.js, Next.js, JavaScript, and Tailwind CSS.
-I enjoy creating clean UI, reusable components, and modern web experiences while continuously learning new technologies.
+Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using React.js, Next.js, JavaScript, and Tailwind CSS.
+I enjoy building reusable UI components and delivering clean, user-friendly experiences.
 </p>
 
 <p align="center">
   <a href="https://github.com/arunchakrawarti">
-    <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/arunchakrawarti?tab=followers">
+    <img src="https://img.shields.io/github/followers/arunchakrawarti?label=Followers&style=flat&color=blue" />
+  </a>
+  <a href="https://github.com/arunchakrawarti">
+    <img src="https://img.shields.io/github/stars/arunchakrawarti?affiliations=OWNER&style=flat&color=yellow" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 💼 Frontend Developer at **SG WebApp Techniques Pvt. Ltd.**
-- 🌱 Currently learning **JavaScript**, **Next.js**, and **Frontend Performance Optimization**
-- 💻 Love building responsive websites and Admin Dashboards
-- 🤝 Open to collaborate on **React.js** & **Next.js** projects
-- 📫 Email: **arunmojampur@gmail.com**
-- 📍 Lucknow, Uttar Pradesh, India
+- 🌱 Currently learning **Next.js**, **JavaScript**, and **Frontend Performance**
+- 💻 Passionate about building Responsive UI & Admin Dashboards
+- 🤝 Looking to collaborate on **React.js & Next.js Projects**
+- 📫 **Email:** arunmojampur@gmail.com
+- 📍 **Location:** Moti Nagar, New Delhi, India
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,mongodb,git,github,vscode,vercel,postman&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,mongodb,git,github,vscode,vercel,postman,npm&theme=dark" />
 </p>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### 🚀 Frontend Developer
-**SG WebApp Techniques Pvt. Ltd.**  
-📅 **June 2025 – Present**
-
-- ✅ Developed responsive and reusable UI components using React.js and Next.js.
-- ✅ Built modern web applications using JavaScript, HTML, CSS, Tailwind CSS, and Bootstrap.
-- ✅ Integrated REST APIs using Axios and Fetch API.
-- ✅ Worked with React Hooks and Context API.
-- ✅ Built responsive layouts for Desktop, Tablet & Mobile.
-- ✅ Collaborated with backend developers for API integration.
-- ✅ Improved application performance and user experience.
-- ✅ Participated in bug fixing, code reviews, and feature development.
-
----
-
-# 🚀 Featured Projects
-
-## 📚 Notebook IAS Student Portal
-
+### 📚 Notebook IAS Student Portal
 🔗 https://notebook-ias-student-opal.vercel.app
 
-### Features
-- 📖 Student Dashboard
-- 📚 Study Plans
-- 🎓 Course Management
-- 📱 Responsive UI
+- Student Dashboard
+- Course Management
+- Study Plans
+- Responsive Design
 
-**Tech Stack**
-
-`React.js` `Next.js` `Tailwind CSS`
+**Tech:** React.js • Next.js • Tailwind CSS
 
 ---
 
-## 🕉️ Asthivisarjan Admin Panel
-
+### 🕉️ Asthivisarjan Admin Panel
 🔗 https://asthivisarjan-admin.vercel.app
 
-### Features
-- 👥 Customer Management
-- 🛠️ Service Management
-- 📱 Responsive Dashboard
+- Service Management
+- Customer Management
+- Responsive Dashboard
 
-**Tech Stack**
-
-`React.js` `Next.js` `Tailwind CSS`
+**Tech:** React.js • Next.js • Tailwind CSS
 
 ---
 
-## 📊 Ulive Admin Dashboard
-
+### 📊 Ulive Admin Dashboard
 🔗 https://ulive-admin-dashboard.vercel.app/auth/signin
 
-### Features
+- User Management
+- Analytics Dashboard
+- Content Management
+- Responsive Admin Panel
 
-- 👤 User Management
-- 📈 Analytics
-- 📝 Content Management
-- 📱 Responsive Dashboard
-
-**Tech Stack**
-
-`React.js` `Next.js` `Tailwind CSS`
+**Tech:** React.js • Next.js • Tailwind CSS
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
 <a href="mailto:arunmojampur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://linkedin.com/in/arun-chakrawarti-b89b3531a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/arunchakrawarti">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
 ---
 
-# ⚡ Fun Fact
+## ⚡ Fun Fact
 
-> 💡 I enjoy transforming UI designs into fast, responsive, and reusable React.js & Next.js applications.
+> 💡 I love turning UI designs into fast, responsive, and scalable React.js & Next.js applications.
 
 ---
 
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
-</p>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
