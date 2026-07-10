@@ -33,7 +33,7 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ## 🚀 Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html" height="55" />
 <img src="https://skillicons.dev/icons?i=css" height="55" />
