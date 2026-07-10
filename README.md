@@ -3,86 +3,62 @@
 <h3 align="center">🚀 Frontend Developer | React.js & Next.js</h3>
 
 <p align="center">
-Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using React.js, Next.js, JavaScript, and Tailwind CSS.
-I enjoy building reusable UI components and delivering clean, user-friendly experiences.
+Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>. I love creating clean, reusable UI components and delivering exceptional user experiences.
 </p>
 
 <p align="center">
   <a href="https://github.com/arunchakrawarti">
-    <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
   <a href="https://github.com/arunchakrawarti?tab=followers">
-    <img src="https://img.shields.io/github/followers/arunchakrawarti?label=Followers&style=flat&color=blue" />
+    <img src="https://img.shields.io/github/followers/arunchakrawarti?logo=github&style=for-the-badge&color=0891b2" />
   </a>
   <a href="https://github.com/arunchakrawarti">
-    <img src="https://img.shields.io/github/stars/arunchakrawarti?affiliations=OWNER&style=flat&color=yellow" />
+    <img src="https://img.shields.io/github/stars/arunchakrawarti?affiliations=OWNER&style=for-the-badge&color=facc15" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 - 💼 Frontend Developer at **SG WebApp Techniques Pvt. Ltd.**
-- 🌱 Currently learning **Next.js**, **JavaScript**, and **Frontend Performance**
-- 💻 Passionate about building Responsive UI & Admin Dashboards
+- 🌱 Currently learning **Next.js**, **JavaScript**, and **Frontend Performance Optimization**
+- 💻 Passionate about building **Responsive Websites** & **Admin Dashboards**
 - 🤝 Looking to collaborate on **React.js & Next.js Projects**
-- 📫 **Email:** arunmojampur@gmail.com
+- 📫 **Email:** `arunmojampur@gmail.com`
 - 📍 **Location:** Moti Nagar, New Delhi, India
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,mongodb,git,github,vscode,vercel,postman,npm&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=html" height="55" />
+<img src="https://skillicons.dev/icons?i=css" height="55" />
+<img src="https://skillicons.dev/icons?i=js" height="55" />
+<img src="https://skillicons.dev/icons?i=react" height="55" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="55" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="55" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+<img src="https://skillicons.dev/icons?i=git" height="55" />
+<img src="https://skillicons.dev/icons?i=github" height="55" />
+<img src="https://skillicons.dev/icons?i=vscode" height="55" />
+<img src="https://skillicons.dev/icons?i=vercel" height="55" />
+<img src="https://skillicons.dev/icons?i=postman" height="55" />
+<img src="https://skillicons.dev/icons?i=npm" height="55" />
+
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Notebook IAS Student Portal
-🔗 https://notebook-ias-student-opal.vercel.app
-
-- Student Dashboard
-- Course Management
-- Study Plans
-- Responsive Design
-
-**Tech:** React.js • Next.js • Tailwind CSS
-
----
-
-### 🕉️ Asthivisarjan Admin Panel
-🔗 https://asthivisarjan-admin.vercel.app
-
-- Service Management
-- Customer Management
-- Responsive Dashboard
-
-**Tech:** React.js • Next.js • Tailwind CSS
-
----
-
-### 📊 Ulive Admin Dashboard
-🔗 https://ulive-admin-dashboard.vercel.app/auth/signin
-
-- User Management
-- Analytics Dashboard
-- Content Management
-- Responsive Admin Panel
-
-**Tech:** React.js • Next.js • Tailwind CSS
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -98,32 +74,32 @@ I enjoy building reusable UI components and delivering clean, user-friendly expe
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:arunmojampur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" height="50" />
 </a>
 
 <a href="https://linkedin.com/in/arun-chakrawarti-b89b3531a">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
 </a>
 
 <a href="https://github.com/arunchakrawarti">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## 💡 Quote
 
-> 💡 I love turning UI designs into fast, responsive, and scalable React.js & Next.js applications.
+> **"Code. Learn. Build. Repeat."**
 
 ---
 
