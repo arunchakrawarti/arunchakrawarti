@@ -56,11 +56,17 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ## 📊 GitHub Stats
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak
