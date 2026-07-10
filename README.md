@@ -52,15 +52,6 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📈 Contribution Graph
 
