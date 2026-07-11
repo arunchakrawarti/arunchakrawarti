@@ -3,101 +3,113 @@
 <h3 align="center">🚀 Frontend Developer | React.js & Next.js</h3>
 
 <p align="center">
-Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>. I love creating clean, reusable UI components and delivering exceptional user experiences.
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/arunchakrawarti">
-    <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/arunchakrawarti?tab=followers">
-    <img src="https://img.shields.io/github/followers/arunchakrawarti?logo=github&style=for-the-badge&color=0891b2" />
-  </a>
-  <a href="https://github.com/arunchakrawarti">
-    <img src="https://img.shields.io/github/stars/arunchakrawarti?affiliations=OWNER&style=for-the-badge&color=facc15" />
-  </a>
+Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-- 💼 Frontend Developer at **SG WebApp Techniques Pvt. Ltd.**
-- 🌱 Currently learning **Next.js**, **JavaScript**, and **Frontend Performance Optimization**
-- 💻 Passionate about building **Responsive Websites** & **Admin Dashboards**
-- 🤝 Looking to collaborate on **React.js & Next.js Projects**
+- 💼 **Working as Frontend Developer at SG WebApp Techniques Pvt. Ltd.**
+- 🌱 **Learning Advanced Next.js, TypeScript & System Design**
+- 💻 **Building Responsive Websites & Admin Dashboards**
+- 🤝 **Looking to collaborate on React.js & Next.js Projects**
 - 📫 **Email:** `arunmojampur@gmail.com`
-- 📍 **Location:** Moti Nagar, New Delhi, India
+- 📍 **New Delhi, India**
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/⚛%20React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/▲%20Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/🟨%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/🔷%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/⚡%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/🌊%20Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/🅱️%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## ⚙ Backend
+
+![Node.js](https://img.shields.io/badge/🟢%20Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/🚂%20Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+---
+
+## 🗄 Database
+
+![MongoDB](https://img.shields.io/badge/🍃%20MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🤖 AI & Tools
+
+![Gemini AI](https://img.shields.io/badge/✨%20Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Git](https://img.shields.io/badge/🟧%20Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/💙%20VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/📮%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/▲%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/📦%20NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=html" height="55" />
-<img src="https://skillicons.dev/icons?i=css" height="55" />
-<img src="https://skillicons.dev/icons?i=js" height="55" />
-<img src="https://skillicons.dev/icons?i=react" height="55" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="55" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="55" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-<img src="https://skillicons.dev/icons?i=git" height="55" />
-<img src="https://skillicons.dev/icons?i=github" height="55" />
-<img src="https://skillicons.dev/icons?i=vscode" height="55" />
-<img src="https://skillicons.dev/icons?i=vercel" height="55" />
-<img src="https://skillicons.dev/icons?i=postman" height="55" />
-<img src="https://skillicons.dev/icons?i=npm" height="55" />
-
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arunchakrawarti&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunchakrawarti&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=tokyo-night&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=arunchakrawarti&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Contribution Graph
 
 <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunchakrawarti&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="mailto:arunmojampur@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/arun-chakrawarti-b89b3531a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/arunchakrawarti">
-<img src="https://skillicons.dev/icons?i=github" height="50" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> **"Code. Learn. Build. Repeat."**
+> ### 🚀 Code • Learn • Build • Repeat
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
