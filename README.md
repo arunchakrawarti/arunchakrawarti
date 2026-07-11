@@ -29,7 +29,6 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 ![TypeScript](https://img.shields.io/badge/🔷%20TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/⚡%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/🌊%20Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/🅱️%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -47,7 +46,6 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 ![VS Code](https://img.shields.io/badge/💙%20VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/📮%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/▲%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/📦%20NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
