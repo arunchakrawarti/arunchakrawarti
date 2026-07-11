@@ -6,6 +6,7 @@
 Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>. I love creating clean, reusable UI components and delivering exceptional user experiences.
 </p>
 
+
 <p align="center">
   <a href="https://github.com/arunchakrawarti">
     <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
