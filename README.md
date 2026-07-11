@@ -47,14 +47,14 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ## 🤖 AI & Tools
 
-![Gemini AI](https://img.shields.io/badge/✨%20Gemini_AI-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/💬%20ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/✨%20Gemini_AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Antigravity](https://img.shields.io/badge/🚀%20Antigravity-6C63FF?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/🟧%20Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/💙%20VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/📮%20Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/▲%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
 
 
 # 🔥 GitHub Streak
