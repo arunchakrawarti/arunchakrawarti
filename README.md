@@ -8,6 +8,12 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ---
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=arunchakrawarti&label=Profile%20Views&color=0891b2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/arunchakrawarti?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/arunchakrawarti?style=for-the-badge&label=Stars" />
+</p>
+
 # 🚀 About Me
 
 - 💼 **Working as Frontend Developer at SG WebApp Techniques Pvt. Ltd.**
