@@ -11,7 +11,6 @@ Passionate Frontend Developer with experience in building modern, responsive, an
   <img src="https://img.shields.io/github/followers/arunchakrawarti?style=for-the-badge&logo=github&label=Followers" />
   <img src="https://img.shields.io/github/stars/arunchakrawarti?style=for-the-badge&label=Stars" />
 </p>
-
 ---
 
 
