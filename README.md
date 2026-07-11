@@ -1,8 +1,8 @@
 # Hi 👋, I'm Arun Chakrawarti
 
-<h3 align="center">🚀 Frontend Developer | React.js & Next.js</h3>
+<h3>🚀 Frontend Developer | React.js & Next.js</h3>
 
-<p align="center">
+<p>
 Passionate Frontend Developer with experience in building modern, responsive, and scalable web applications using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>JavaScript</strong>, and <strong>Tailwind CSS</strong>.
 </p>
 
@@ -30,13 +30,6 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 ![Redux](https://img.shields.io/badge/⚡%20Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/🌊%20Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/🅱️%20Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-## ⚙ Backend
-
-![Node.js](https://img.shields.io/badge/🟢%20Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/🚂%20Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -86,7 +79,7 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
 
 <a href="mailto:arunmojampur@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
