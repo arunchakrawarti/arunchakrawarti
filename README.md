@@ -19,6 +19,14 @@ Passionate Frontend Developer with experience in building modern, responsive, an
 
 ---
 
+# ▲ Portfolio
+
+<p>
+<a href="https://portfolio-sigma-lyart-djo9z9kjmn.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
 # 🛠 Tech Stack
 
 ## 🎨 Frontend
